@@ -15,7 +15,7 @@
   "dependencies": {
     "body-parser": "1.19.0",
     "errorhandler": "",
-    "express": "",
+    "express": "4.16.4",
     "morgan": "",
     "socket.io": "^2.4.0",
     "spdy": ""
